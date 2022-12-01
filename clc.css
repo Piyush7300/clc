@@ -1,0 +1,61 @@
+
+*{
+     margin:0;
+     padding:0;
+     background-image: url(piy.jpg)
+     
+   
+
+}
+
+.button
+{
+    width:50;
+    height:50;
+    font-size: 25;
+    margin:15;
+    cursor: pointer;
+    border-radius: 10px;
+    border:solid white;
+    
+}
+.button:hover
+{
+    color:white;
+    
+    
+}
+.textview
+{
+    width:280;
+    margin:30px;
+    font-size: 25;
+    padding:3px;
+    height: 100;
+    border-radius: 5px;
+    border:solid black;
+    color:white;
+   
+
+}
+.main
+{
+position:absolute;
+    top:10%;
+    left:70%;
+    border-radius: 8px;
+
+}
+h1
+{
+   padding:270;
+   font-size: 80px ;
+   color:white;
+   font-family:cursive;
+
+ 
+}
+
+
+     
+        
